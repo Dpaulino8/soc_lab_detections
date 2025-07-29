@@ -6,12 +6,12 @@
 What security problem does this solve? (1–2 paragraphs)
 
 ## Environment
-- Tools: <Wazuh/ELK | Splunk | Suricata | Zeek | Sigma | KQL | Python | PowerShell>
+- Tools: <VirtualBox, 
 - Data sources: <Windows Security 4624/4625/4688, Sysmon, Zeek conn.log>
 - ATT&CK: <TA000x / T10xx>
 
 ## What I built
-- Feature 1
+- Three virtual machines running on one computer (Ubuntu (Home), Windows 11 (Monitor), Kali Linux (Attack))
 - Feature 2
 - Detection rules / queries (link to files)
 
